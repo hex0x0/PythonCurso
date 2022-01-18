@@ -6,4 +6,5 @@
 - [x] listas
 - [x] dicionários
 - [x] declaração básica de funções
-
+- [x] Retorno de valores
+- [x] Trabalhando com módulos
