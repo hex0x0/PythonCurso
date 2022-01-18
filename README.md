@@ -8,3 +8,4 @@
 - [x] declaração básica de funções
 - [x] Retorno de valores
 - [x] Trabalhando com módulos
+- [x] Importando classes
