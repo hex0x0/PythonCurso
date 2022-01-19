@@ -9,3 +9,4 @@
 - [x] Retorno de valores
 - [x] Trabalhando com módulos
 - [x] Importando classes
+- [x] Lendo e escrevendo arquivos

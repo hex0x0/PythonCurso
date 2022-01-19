@@ -1,8 +1,8 @@
 """
 w - cria um arquivo. se ele já existir, sobrescreve
 a - cria um arquivo. se ele já existir, adiciona no fim
-file.read - retorna todo o conteúdo lido
-file.readlines -> retorna uma lista separada por quebras de linha
+file.read() - retorna todo o conteúdo lido
+file.readlines() -> retorna uma lista separada por quebras de linha
 
 
 ex1.
@@ -15,8 +15,11 @@ arquivo.write(texto)
 
 arquivo = open('C:\\Users\\delta\\Desktop\\teste.txt', 'r')
 
-x = arquivo.read
+x = arquivo.readlines()
 
-print(x)
+print(x[0])
 
 arquivo.close
+
+
+
